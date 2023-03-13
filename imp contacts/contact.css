@@ -1,0 +1,24 @@
+.main_heading{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+a{
+    color:deeppink;
+}
+
+a:hover {
+    color: hotpink;
+  }
+
+  a:active {
+    color:lightpink;
+  }
+
+  body{
+    font-family:sans-serif;
+    margin: 15px 30px;
+    font-size:30px;
+    padding: 8px;
+    background-color: #b7f1ef;
+}
